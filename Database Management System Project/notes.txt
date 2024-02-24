@@ -1,0 +1,11 @@
+username :hr
+password:hr
+database:orcl
+
+-------------------------
+forms:
+Username:weblogic 
+Password: Administrator1
+
+open at first Start Weblogic Admin Server
+and at the end Stop Weblogic Admin Server
